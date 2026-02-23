@@ -1,0 +1,6 @@
+insightface==0.7.3
+onnxruntime-gpu==1.16.0
+opencv==4.9.0.80
+numpy==1.26.4
+psutil==7.2.1
+pynvml==13.0.1
